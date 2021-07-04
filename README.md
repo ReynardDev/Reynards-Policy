@@ -27,7 +27,7 @@ Blacklisting is used for many purposes, whether this is for people spamming and 
 **Answer 3**: Well, they're not too many ways to get blacklisted, but some consist of the following...
 - Abusing the Suggest or Bug-Reporting commands.
 - Using our bot to Break [Discords ToS](https://discord.com/terms) or [Guidelines](https://discord.com/guidelines)
- > The reasons may differ depending on the reputations of some users once again, if you have any questions or didn't receive the DM by Aoi you can join the [Support Server](https://discord.gg/KHx4pyARWB) and contact a **server manager** or the developer.
+ > The reasons may differ depending on the reputations of some users once again, if you have any questions or didn't receive the DM by Aoi you can join the [Support Server](https://discord.gg/yrvnwu557g) and contact a **server manager** or the developer.
  
 `Question 3`: How can I get unblacklisted?
 
