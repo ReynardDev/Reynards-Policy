@@ -33,4 +33,5 @@ Blacklisting is used for many purposes, whether this is for people spamming and 
 
 **Answer 3**: If you'd like to get unblacklisted you can either join the [support server](https://discord.gg/yrvnwu557g) or contact $ B!hu#3622
 
-*- writen by B!hu, Bot Owner.*
+
+*- Writen by B!hu, Bot Owner.*
