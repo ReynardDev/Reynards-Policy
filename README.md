@@ -31,7 +31,7 @@ Blacklisting is used for many purposes, whether this is for people spamming and 
  
 `Question 3`: How can I get unblacklisted?
 
-**Answer 3**: If you'd like to get unblacklisted you must submit a "blacklist-appeal" in the [support server](https://discord.gg/yrvnwu557g) or contact $ B!hu#3622, or any other developers!
+**Answer 3**: If you'd like to get unblacklisted you must submit a "blacklist-appeal" in the [support server](https://discord.gg/yrvnwu557g) or contact B!hu#3622, or any other developers!
 
 
 *- Writen by B!hu, Bot Owner.*
